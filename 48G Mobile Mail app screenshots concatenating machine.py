@@ -1,5 +1,5 @@
 """
-for concatenated ske Mail app screenshots
+for concatenating ske Mail app screenshots
 """
 
 from PIL import Image
